@@ -2,7 +2,7 @@
 
 <img src="assets/capa.svg" alt="Saulo G. Padilha" width="100%"/>
 
-Desenvolvedor na **Alfa Automação Comercial**, em Guarapuava/PR. Sites, integrações e ferramentas que entram em operação.
+Desenvolvedor na **Alfa Automação Comercial**, em Guarapuava/PR. Sites, integrações e ferramentas para o dia a dia.
 
 [site](https://www.devinlines.com.br/) · [linkedin](https://www.linkedin.com/in/saulo-gabriel-55b080306/) · [steam](https://steamcommunity.com/id/khastz95/) · [email](mailto:saulo1337@proton.me)
 
