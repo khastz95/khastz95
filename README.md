@@ -1,40 +1,25 @@
 <div align="center">
 
-<img src="assets/perfil.svg" alt="Saulo G. Padilha — PHP, JS, HTML, CSS, SQL, Java e Python" width="100%"/>
+<img src="assets/banner-roxo.svg" alt="Saulo G. Padilha" width="100%"/>
 
-<br/>
+Desenvolvedor na **Alfa Automação Comercial**, em Guarapuava/PR. Sites, integrações e ferramentas que entram em operação.
 
 [site](https://www.devinlines.com.br/) · [linkedin](https://www.linkedin.com/in/saulo-gabriel-55b080306/) · [steam](https://steamcommunity.com/id/khastz95/) · [email](mailto:saulo1337@proton.me)
 
+<img src="assets/linguagens-roxo.svg" alt="PHP, JS, HTML, CSS, SQL, Java, Python. Laravel, Bootstrap, VS Code e Git." width="720"/>
+
+<br/>
+
+<img src="assets/commits-roxo.svg" alt="Gráfico de commits do último ano" width="100%"/>
+
 </div>
 
-<table>
-<tr>
-<td width="50%">
+### Projetos
 
-**[WaterCats](https://github.com/khastz95/watercats)**  
-Site do clube e bot de partidas.
+[WaterCats](https://github.com/khastz95/watercats) — site do clube e bot de partidas
 
-</td>
-<td width="50%">
+[backup-fdb-client](https://github.com/khastz95/backup-fdb-client) — backup Firebird, FTP e painel de representantes
 
-**[backup-fdb-client](https://github.com/khastz95/backup-fdb-client)**  
-Backup Firebird, FTP e painel de representantes.
+[ELOJOBCS2](https://github.com/khastz95/ELOJOBCS2) — site de [elojobcs2.com.br](https://www.elojobcs2.com.br)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[ELOJOBCS2](https://github.com/khastz95/ELOJOBCS2)**  
-Site de [elojobcs2.com.br](https://www.elojobcs2.com.br).
-
-</td>
-<td width="50%">
-
-**[camp-x1](https://github.com/khastz95/camp-x1)**  
-Campeonato de X1.
-
-</td>
-</tr>
-</table>
+[camp-x1](https://github.com/khastz95/camp-x1) — campeonato de X1
