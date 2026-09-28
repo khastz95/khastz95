@@ -10,8 +10,8 @@ Desenvolvedor na **Alfa Automação Comercial**, em Guarapuava/PR. Sites, integr
 
 <img src="assets/pizza-suave.svg" alt="TypeScript 46%, JavaScript 14,7%, C# 14,3%, CSS 12,7%, HTML 7,9% e outras 4,4%." width="100%"/>
 
-<img src="assets/commits-ano.svg" alt="Gráfico de commits do último ano" width="100%"/>
-
 <img src="assets/projetos-lista.svg" alt="Projetos: WaterCats, backup-fdb-client, ELOJOBCS2 e camp-x1." width="100%"/>
+
+<a href="https://github.com/khastz95/watercats"><img src="assets/link-watercats.svg" alt="WaterCats" height="22"/></a><a href="https://github.com/khastz95/backup-fdb-client"><img src="assets/link-backup.svg" alt="backup-fdb-client" height="22"/></a><a href="https://github.com/khastz95/ELOJOBCS2"><img src="assets/link-elojob.svg" alt="ELOJOBCS2" height="22"/></a><a href="https://github.com/khastz95/camp-x1"><img src="assets/link-camp.svg" alt="camp-x1" height="22"/></a>
 
 </div>
