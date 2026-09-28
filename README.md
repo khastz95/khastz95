@@ -12,33 +12,10 @@ Desenvolvedor na **Alfa Automação Comercial**, em Guarapuava/PR. Sites, integr
 
 <img src="assets/commits-luz.svg" alt="Gráfico de commits do último ano" width="100%"/>
 
-### Projetos
-
-<table align="center">
-<tr>
-<td width="50%">
-
-<a href="https://github.com/khastz95/watercats"><img src="assets/proj-watercats.svg" alt="WaterCats. Site do clube e bot de partidas." width="100%"/></a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/khastz95/backup-fdb-client"><img src="assets/proj-backup.svg" alt="backup-fdb-client. Backup Firebird, FTP e painel." width="100%"/></a>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<a href="https://github.com/khastz95/ELOJOBCS2"><img src="assets/proj-elojob.svg" alt="ELOJOBCS2. Site de elojobcs2.com.br." width="100%"/></a>
-
-</td>
-<td>
-
-<a href="https://github.com/khastz95/camp-x1"><img src="assets/proj-camp.svg" alt="camp-x1. Campeonato de X1." width="100%"/></a>
-
-</td>
-</tr>
-</table>
+<img src="assets/repo-label.svg" alt="Projetos" width="100%"/>
+<a href="https://github.com/khastz95/watercats"><img src="assets/repo-watercats.svg" alt="WaterCats. Clube e bot de partidas." width="100%"/></a>
+<a href="https://github.com/khastz95/backup-fdb-client"><img src="assets/repo-backup.svg" alt="backup-fdb-client. Backup Firebird, FTP e painel." width="100%"/></a>
+<a href="https://github.com/khastz95/ELOJOBCS2"><img src="assets/repo-elojob.svg" alt="ELOJOBCS2. elojobcs2.com.br." width="100%"/></a>
+<a href="https://github.com/khastz95/camp-x1"><img src="assets/repo-camp.svg" alt="camp-x1. Campeonato de X1." width="100%"/></a>
 
 </div>
