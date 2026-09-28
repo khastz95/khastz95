@@ -8,7 +8,7 @@ Desenvolvedor na **Alfa Automação Comercial**, em Guarapuava/PR. Sites, integr
 
 <img src="assets/icones.svg" alt="PHP, JS, HTML, CSS, SQL, Java, Python. Laravel, Bootstrap, VS Code e Git." width="820"/>
 
-<img src="assets/pizza.svg" alt="TypeScript 46%, JavaScript 14,7%, C# 14,3%, CSS 12,7%, HTML 7,9% e outras 4,4%." width="820"/>
+<img src="assets/pizza-cores.svg" alt="TypeScript 46%, JavaScript 14,7%, C# 14,3%, CSS 12,7%, HTML 7,9% e outras 4,4%." width="820"/>
 
 <img src="assets/graficos.svg" alt="Gráfico de commits do último ano" width="100%"/>
 
