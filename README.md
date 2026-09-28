@@ -12,10 +12,8 @@ Desenvolvedor na **Alfa Automação Comercial**, em Guarapuava/PR. Sites, integr
 
 <img src="assets/commits-luz.svg" alt="Gráfico de commits do último ano" width="100%"/>
 
-<img src="assets/repo-label.svg" alt="Projetos" width="100%"/>
-<a href="https://github.com/khastz95/watercats"><img src="assets/repo-watercats.svg" alt="WaterCats. Clube e bot de partidas." width="100%"/></a>
-<a href="https://github.com/khastz95/backup-fdb-client"><img src="assets/repo-backup.svg" alt="backup-fdb-client. Backup Firebird, FTP e painel." width="100%"/></a>
-<a href="https://github.com/khastz95/ELOJOBCS2"><img src="assets/repo-elojob.svg" alt="ELOJOBCS2. elojobcs2.com.br." width="100%"/></a>
-<a href="https://github.com/khastz95/camp-x1"><img src="assets/repo-camp.svg" alt="camp-x1. Campeonato de X1." width="100%"/></a>
+<img src="assets/projetos.svg" alt="Projetos: WaterCats, backup-fdb-client, ELOJOBCS2 e camp-x1." width="100%"/>
+
+[WaterCats](https://github.com/khastz95/watercats) · [backup-fdb-client](https://github.com/khastz95/backup-fdb-client) · [ELOJOBCS2](https://github.com/khastz95/ELOJOBCS2) · [camp-x1](https://github.com/khastz95/camp-x1)
 
 </div>
