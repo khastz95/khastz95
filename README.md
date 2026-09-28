@@ -4,7 +4,7 @@
 
 Desenvolvedor na **Alfa Automação Comercial**, em Guarapuava/PR. Sites, integrações e ferramentas para o dia a dia.
 
-[site](https://www.devinlines.com.br/) · [linkedin](https://www.linkedin.com/in/saulo-gabriel-55b080306/) · [steam](https://steamcommunity.com/id/khastz95/) · [email](mailto:saulo1337@proton.me)
+<a href="https://www.devinlines.com.br/"><img src="assets/contato-site.svg" alt="site" height="22"/></a><img src="assets/contato-sep.svg" alt="" height="22"/><a href="https://www.linkedin.com/in/saulo-gabriel-55b080306/"><img src="assets/contato-linkedin.svg" alt="linkedin" height="22"/></a><img src="assets/contato-sep.svg" alt="" height="22"/><a href="https://steamcommunity.com/id/khastz95/"><img src="assets/contato-steam.svg" alt="steam" height="22"/></a><img src="assets/contato-sep.svg" alt="" height="22"/><a href="mailto:saulo1337@proton.me"><img src="assets/contato-email.svg" alt="email" height="22"/></a>
 
 <img src="assets/icones-luz.svg" alt="TypeScript, JavaScript, C#, CSS e HTML nos repositórios. PHP, SQL, Java, Python, Laravel, Bootstrap, VS Code e Git no dia a dia." width="100%"/>
 
