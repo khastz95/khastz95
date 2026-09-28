@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Saulo G. Padilha">
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071018"/>
+      <stop offset="45%" stop-color="#10283a">
+        <animate attributeName="offset" values="0.25;0.7;0.25" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#07090c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7ad7ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7ad7ff"/>
+      <stop offset="100%" stop-color="#d67615" stop-opacity="0"/>
+      <animate attributeName="x1" values="-0.4;1.2" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.2;1.8" dur="5.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#7ad7ff" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" fill="#07090c"/>
+  <rect width="1200" height="340" fill="url(#wash)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <text x="72" y="128" fill="#7ad7ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="6">SOFTWARE · GUARAPUAVA</text>
+  <text x="72" y="196" fill="#f4f7fb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700">Saulo G. Padilha</text>
+  <text x="72" y="242" fill="#c5d0dc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">Sistemas, integrações e produtos que entram em operação.</text>
+  <rect x="72" y="268" width="420" height="3" fill="url(#line)"/>
+  <circle cx="1088" cy="78" r="6" fill="#7ad7ff">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1048" y="84" text-anchor="end" fill="#9eb0c3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">ao vivo</text>
+</svg>

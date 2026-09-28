@@ -1,0 +1,26 @@
+name: contribution-snake
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: khastz95
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=7ad7ff&color_dots=#1b2836,#7ad7ff
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: atualiza animação de contribuições"
+          file_pattern: dist/*.svg
