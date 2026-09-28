@@ -1,106 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Saulo G. Padilha">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-label="Saulo G. Padilha">
   <defs>
     <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#071018"/>
-      <stop offset="42%" stop-color="#123044">
-        <animate attributeName="offset" values="0.22;0.68;0.22" dur="10s" repeatCount="indefinite"/>
+      <stop offset="55%" stop-color="#10283a">
+        <animate attributeName="offset" values="0.35;0.7;0.35" dur="12s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#07090c"/>
     </linearGradient>
     <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#7ad7ff" stop-opacity="0"/>
       <stop offset="50%" stop-color="#7ad7ff"/>
-      <stop offset="100%" stop-color="#d67615" stop-opacity="0"/>
-      <animate attributeName="x1" values="-0.6;1.2" dur="4.8s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0;1.8" dur="4.8s" repeatCount="indefinite"/>
-    </linearGradient>
-    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#7ad7ff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#7ad7ff" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#7ad7ff" stop-opacity="0"/>
+      <animate attributeName="x1" values="-0.5;1.1" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.1;1.7" dur="5.5s" repeatCount="indefinite"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#7ad7ff" stroke-opacity="0.07"/>
-      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="0 32" dur="8s" repeatCount="indefinite"/>
-    </pattern>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
-
-  <rect width="1200" height="400" fill="#07090c"/>
-  <rect width="1200" height="400" fill="url(#wash)"/>
-  <rect width="1200" height="400" fill="url(#grid)"/>
-
-  <rect x="0" width="1200" height="46" fill="url(#scan)" opacity="0.16">
-    <animate attributeName="y" values="-46;400" dur="7.5s" repeatCount="indefinite"/>
+  <rect width="1200" height="220" rx="16" fill="#07090c"/>
+  <rect width="1200" height="220" rx="16" fill="url(#wash)"/>
+  <text x="72" y="78" fill="#7ad7ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4.5">SOFTWARE &#183; GUARAPUAVA</text>
+  <text x="72" y="132" fill="#f4f7fb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700">Saulo G. Padilha</text>
+  <rect x="548" y="96" width="10" height="34" rx="2" fill="#7ad7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.55;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
-
-  <circle cx="180" cy="40" r="2" fill="#7ad7ff" opacity="0.7">
-    <animate attributeName="cy" values="40;360;40" dur="14s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.15;0.8;0.15" dur="14s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="640" cy="360" r="1.6" fill="#d67615" opacity="0.8">
-    <animate attributeName="cy" values="360;30;360" dur="18s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="980" cy="90" r="2.2" fill="#7ad7ff" opacity="0.55">
-    <animate attributeName="cy" values="90;330;90" dur="16s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="980;940;980" dur="16s" repeatCount="indefinite"/>
-  </circle>
-
-  <text x="72" y="118" fill="#7ad7ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" letter-spacing="5.5">SOFTWARE ? GUARAPUAVA</text>
-  <text x="72" y="186" fill="#f4f7fb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700">Saulo G. Padilha</text>
-  <rect x="612" y="146" width="14" height="40" rx="2" fill="#7ad7ff" filter="url(#glow)">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.46;0.5;1" dur="1.15s" repeatCount="indefinite"/>
-  </rect>
-  <text x="72" y="230" fill="#c5d0dc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Sistemas, integra??es e produtos que entram em opera??o.</text>
-  <rect x="72" y="252" width="520" height="3" fill="url(#sweep)"/>
-
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
-    <g>
-      <rect x="72" y="292" width="132" height="36" rx="8" fill="#102433" stroke="#7ad7ff" stroke-opacity="0.45"/>
-      <text x="138" y="315" fill="#f4f7fb">PHP</text>
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="4.2s" begin="0s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="216" y="292" width="132" height="36" rx="8" fill="#102433" stroke="#7ad7ff" stroke-opacity="0.45"/>
-      <text x="282" y="315" fill="#f4f7fb">JS</text>
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="4.2s" begin="0.35s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="360" y="292" width="132" height="36" rx="8" fill="#102433" stroke="#7ad7ff" stroke-opacity="0.45"/>
-      <text x="426" y="315" fill="#f4f7fb">HTML</text>
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="4.2s" begin="0.7s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="504" y="292" width="132" height="36" rx="8" fill="#102433" stroke="#7ad7ff" stroke-opacity="0.45"/>
-      <text x="570" y="315" fill="#f4f7fb">CSS</text>
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="4.2s" begin="1.05s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="648" y="292" width="132" height="36" rx="8" fill="#102433" stroke="#7ad7ff" stroke-opacity="0.45"/>
-      <text x="714" y="315" fill="#f4f7fb">SQL</text>
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="4.2s" begin="1.4s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="792" y="292" width="132" height="36" rx="8" fill="#102433" stroke="#7ad7ff" stroke-opacity="0.45"/>
-      <text x="858" y="315" fill="#f4f7fb">Java</text>
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="4.2s" begin="1.75s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <rect x="936" y="292" width="168" height="36" rx="8" fill="#102433" stroke="#d67615" stroke-opacity="0.7"/>
-      <text x="1020" y="315" fill="#f4f7fb">Python</text>
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="4.2s" begin="2.1s" repeatCount="indefinite"/>
-    </g>
-  </g>
-
-  <circle cx="1104" cy="64" r="6" fill="#7ad7ff" filter="url(#glow)">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="1086" y="69" text-anchor="end" fill="#9eb0c3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">ao vivo</text>
+  <text x="72" y="168" fill="#c5d0dc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Sistemas, integra&#231;&#245;es e produtos que entram em opera&#231;&#227;o.</text>
+  <rect x="72" y="188" width="280" height="2" fill="url(#sweep)"/>
 </svg>
