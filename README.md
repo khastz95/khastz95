@@ -74,6 +74,6 @@ Campeonato de X1 — JavaScript, feito para uso real entre o grupo.
 
 <br/>
 
-<img alt="Contribuições" src="dist/github-snake-dark.svg"/>
+<img alt="Atividade recente" src="https://github-readme-activity-graph.vercel.app/graph?username=khastz95&theme=github-compact&hide_border=true&bg_color=00000000&color=7ad7ff&line=7ad7ff&point=f4f7fb&area=true"/>
 
 </div>
